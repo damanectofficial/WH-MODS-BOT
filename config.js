@@ -49,32 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/Kasanstore7/' // github
-global.sgc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://hidayat-store.my.id' // ig
+global.sgh = 'https://hidayat-store.my.id' // github
+global.sgc = 'https://hidayat-store.my.id' // group whatsapp
+global.sdc = 'https://hidayat-store.my.id'//discord
+global.snh = 'https://hidayat-store.my.id' // my youtube channel
+global.sfb = 'https://hidayat-store.my.id' // facebook
+global.syt = 'https://hidayat-store.my.id' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '085641142178' //ovo
-global.pgopay = '082110711736' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/mrw4h1d'
+global.pdana = '083872273467' //dana
+global.povo = '083872273467' //ovo
+
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282110711736'
-global.nomorown = '6285641142178'
-global.namebot = 'KASAN BOT'
-global.nameown = 'KASAN STORE DEV'
+global.nomorbot = '6283872273467'
+global.nomorown = '6283872273467'
+global.namebot = 'Hi Dayat Ganteng -Bot Watsap'
+global.nameown = 'Hidayat Store My Id'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = '-' // dayat ganteng
+global.linkgithub = '-' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +81,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285641142178', 'KASAN STORE', true],
+  ['6283872273467', 'Hidayat Store My Id', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -636,8 +632,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '• K a s a n'
-global.stickauth = `BOT BY K A S A N S T O R R`
+global.stickpack = '• Hi Dayat Ganteng- Bot 083872273467'
+global.stickauth = `BOT BY Hidayat Store My Id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
